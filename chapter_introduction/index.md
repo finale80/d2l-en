@@ -1191,7 +1191,7 @@ The following are just a few examples.
 
 These questions raise the problem of *distribution shift*,
 where training and test data are different.
-Most of us have have experienced this problem
+Most of us have experienced this problem
 when taking exams written by a lecturer,
 while the homework was composed by their teaching assistants.
 Next, we briefly describe reinforcement learning,
